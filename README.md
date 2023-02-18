@@ -1,5 +1,5 @@
 Summary
-![](newplot (1).png)
+![](newplot1.png)
 
 Cash is the most used payment method with 34.7% of total sales
 Branch C which is in the city of Naypyitaw made the highest sales
