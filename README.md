@@ -1,6 +1,6 @@
 Summary
 ### [View Notebook](https://nbviewer.org/github/MaryChianumba/Supermarket-Sales-Analysis/blob/main/SUPERMARKET_SALES_ANALYSIS.ipynb)
-![](newplot1.png)
+![](newplot2.png)
 
 Cash is the most used payment method with 34.7% of total sales
 Branch C which is in the city of Naypyitaw made the highest sales
