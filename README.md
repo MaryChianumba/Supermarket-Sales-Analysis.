@@ -1,4 +1,5 @@
 Summary
+### [View Notebook](https://nbviewer.org/github/MaryChianumba/Supermarket-Sales-Analysis./blob/main/SUPERMARKET_SALES_ANALYSIS.ipynb)
 
 ![](newplot2.png)
 
